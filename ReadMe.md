@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡I love creating new things <br>🚀Turning imagination into reality <br>🌱 I’m currently learning react<br>💬 Ask me about Tech<br>⚡ Fun fact "I LOVE MUSIC"
+⚡I love creating new things <br>🚀Turning imagination into reality <br>🌱 I’m currently learning react<br>💬 Ask me about Tech<br>⚡ Fun fact "I LOVE MUSIC" <br> 🚀 Mail id - jatintiwari0@proton.me
 
 
 ## 🌐 Socials:
